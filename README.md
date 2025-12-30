@@ -1,6 +1,1 @@
-## Project Structure
-```text
-─OpenAI_Chat_Completions
-        .env
-        .env.example
-        openaichatCompletions.ipynb
+Ai Foundary Code Base for learning
